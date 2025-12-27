@@ -13,3 +13,6 @@ Features:
 - Transfer
 - Transaction tracking
 - Unit testing with JUnit
+
+void main() {
+}
